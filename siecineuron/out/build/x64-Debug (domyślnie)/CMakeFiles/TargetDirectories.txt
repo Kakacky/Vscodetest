@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/visualcpp/siecineuron/out/build/x64-Debug (domyślnie)/CMakeFiles/Zadanie1.dir
+C:/Users/User/Desktop/visualcpp/siecineuron/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/visualcpp/siecineuron/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir
